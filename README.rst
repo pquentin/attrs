@@ -74,7 +74,7 @@ Never again violate the `single responsibility principle <https://en.wikipedia.o
 Testimonials
 ============
 
-  I’m looking forward to is being able to program in Python-with-attrs everywhere.
+  I’m looking forward to being able to program in Python-with-attrs everywhere.
   It exerts a subtle, but positive, design influence in all the codebases I’ve see it used in.
 
   -- Glyph Lefkowitz, inventor of Twisted and Software Developer at Rackspace in `The One Python Library Everyone Needs <https://glyph.twistedmatrix.com/2016/08/attrs.html>`_
